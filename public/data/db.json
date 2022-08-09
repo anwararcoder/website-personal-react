@@ -1,0 +1,99 @@
+{
+    "works" : [
+        {
+            "id" : 1,
+            "icon_name": "icon fa fa-chain fa-2x",
+            "title": "Mobile Ux1",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas."
+        },
+        {
+            "id" : 2,
+            "icon_name": "icon fa fa-bolt fa-2x",
+            "title": "Mobile Ux2",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas."
+        },
+        {
+            "id" : 3,
+            "icon_name": "icon fa fa-tachometer fa-2x",
+            "title": "Mobile Ux3",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas."
+        }
+    ],
+
+    "portfolio" : [
+        {
+            "id":1,
+            "image": "/images/Portfolio/portfolio-img1.jpg"
+        },
+        {
+            "id":2,
+            "image": "/images/Portfolio/portfolio-img2.jpg"
+        },
+        {
+            "id":3,
+            "image": "/images/Portfolio/portfolio-img3.jpg"
+        },
+        {
+            "id":4,
+            "image": "/images/Portfolio/portfolio-img4.jpg"
+        },
+        {
+            "id":5,
+            "image": "/images/Portfolio/portfolio-img5.jpg"
+        },
+        {
+            "id":6,
+            "image": "/images/Portfolio/portfolio-img6.jpg"
+        },
+        {
+            "id":7,
+            "image": "/images/Portfolio/portfolio-img4.jpg"
+        },
+        {
+            "id":8,
+            "image": "/images/Portfolio/portfolio-img8.jpg"
+        }
+    ] ,
+    "profile" : [
+        {
+            "id": 1,
+            "name" : "Hamza Nabil",
+            "birthday" : "21/1/1996",
+            "address" : "Ain shams",
+            "phone" : "4444 5555 6666",
+            "email" : "hamza@hamza.com",
+            "website" : "www.google.com"
+        }
+    ] ,
+    "skills" : [
+        {
+            "id": 1,
+            "bootstrap" : "100%",
+            "css3" : "90%",
+            "photoshop" : "80%"
+        }
+    ] ,
+    "social" : [
+        {
+            "id": 1,
+            "class" : "social face",
+            "icon" : "icon fa-brands fa-facebook-f",
+            "title" : "Follow Me on",
+            "body" : "Social Facebook"
+        },
+        {
+            "id": 2,
+            "class" : "social twitter",
+            "icon" : "icon fa-brands fa-twitter",
+            "title" : "Tweet Me on",
+            "body" : "Social twitter"
+        },
+        {
+            "id": 3,
+            "class" : "social pin",
+            "icon" : "icon fa-brands fa-pinterest",
+            "title" : "Pin Me on",
+            "body" : "Social Pinterest"
+        }
+    ] 
+}
